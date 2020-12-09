@@ -6,6 +6,10 @@
     },
     {
       "type": "item",
+      "title": "Overview"
+    },
+    {
+      "type": "item",
       "title": "API Carting",
       "uri": "docs/api-carting.md"
     },
