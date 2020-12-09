@@ -1,6 +1,10 @@
 {
   "items": [
     {
+       "type": "divider",
+      "title": "Getting Started"
+    },
+    {
       "type": "item",
       "title": "API Carting",
       "uri": "docs/api-carting.md"
@@ -66,7 +70,7 @@
     },
     {
       "type": "item",
-      "title": "AmeriCommerce REST API",
+      "title": "Resources",
       "uri": "restapi.json"
     }
   ]
