@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "To-do Demo",
+      "uri": "common.oas2.yml"
+    },
+    {
+      "type": "item",
+      "title": "Resources",
+      "uri": "restapi.json"
+    }
+  ]
+}
