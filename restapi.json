@@ -140,11 +140,11 @@
             "X-AC-Auth-Token": []
           }
         ],
-        "tags": [
-          "/adcodes"
-        ],
         "operationId": "getAdcodes",
-        "summary": "Get Adcodes"
+        "summary": "Get Adcodes",
+        "tags": [
+          "adcodes"
+        ]
       }
     },
     "/addresses": {
@@ -250,13 +250,13 @@
         },
         "summary": "Get Addresses ",
         "operationId": "getAddresses",
-        "tags": [
-          "/addresses"
-        ],
         "security": [
           {
             "X-AC-Auth-Token": []
           }
+        ],
+        "tags": [
+          "addresses"
         ]
       }
     },
@@ -572,15 +572,15 @@
         "summary": "Get Affiliates",
         "description": "\t\t\t",
         "operationId": "getAffiliates",
-        "tags": [
-          "/affiliates"
-        ],
         "security": [
           {
             "X-AC-Auth-Token": []
           }
         ],
-        "deprecated": true
+        "deprecated": true,
+        "tags": [
+          "affiliates"
+        ]
       }
     },
     "/attribute_groups": {
@@ -6336,19 +6336,10 @@
       "name": "Todos"
     },
     {
-      "name": "/adcodes"
-    },
-    {
-      "name": "/addresses"
-    },
-    {
       "name": "/cart_items"
     },
     {
       "name": "/carts"
-    },
-    {
-      "name": "/affiliates"
     },
     {
       "name": "/attribute_groups"
@@ -6526,6 +6517,15 @@
     },
     {
       "name": "/wishlists"
+    },
+    {
+      "name": "adcodes"
+    },
+    {
+      "name": "addresses"
+    },
+    {
+      "name": "affiliates"
     }
   ],
   "basePath": "/api/v1"
