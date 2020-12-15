@@ -1,14 +1,6 @@
 {
   "items": [
     {
-      "type": "divider",
-      "title": "Getting Started"
-    },
-    {
-      "type": "item",
-      "title": "Overview"
-    },
-    {
       "type": "item",
       "title": "API Carting",
       "uri": "docs/api-carting.md"
@@ -32,6 +24,11 @@
       "type": "item",
       "title": "Known Issues",
       "uri": "docs/known_issues.md"
+    },
+    {
+      "type": "item",
+      "title": "The AmeriCommerce Rest API",
+      "uri": "docs/overview.md"
     },
     {
       "type": "item",
@@ -62,20 +59,6 @@
       "type": "item",
       "title": "Webhooks",
       "uri": "docs/webhooks.md"
-    },
-    {
-      "type": "divider",
-      "title": "APIS"
-    },
-    {
-      "type": "item",
-      "title": "To-do Demo",
-      "uri": "common.oas2.yml"
-    },
-    {
-      "type": "item",
-      "title": "Resources",
-      "uri": "restapi.json"
     }
   ]
 }
