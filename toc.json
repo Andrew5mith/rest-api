@@ -59,6 +59,354 @@
       "type": "item",
       "title": "Webhooks",
       "uri": "docs/webhooks.md"
+    },
+    {
+      "type": "divider",
+      "title": "resources"
+    },
+    {
+      "type": "item",
+      "title": "adcodes",
+      "uri": "docs/resources/adcodes.md"
+    },
+    {
+      "type": "item",
+      "title": "addresses",
+      "uri": "docs/resources/addresses.md"
+    },
+    {
+      "type": "item",
+      "title": "affiliates",
+      "uri": "docs/resources/affiliates.md"
+    },
+    {
+      "type": "item",
+      "title": "attribute_groups",
+      "uri": "docs/resources/attribute_groups.md"
+    },
+    {
+      "type": "item",
+      "title": "attributes",
+      "uri": "docs/resources/attributes.md"
+    },
+    {
+      "type": "item",
+      "title": "blog_categories",
+      "uri": "docs/resources/blog_categories.md"
+    },
+    {
+      "type": "item",
+      "title": "blog_posts",
+      "uri": "docs/resources/blog_posts.md"
+    },
+    {
+      "type": "item",
+      "title": "blogs",
+      "uri": "docs/resources/blogs.md"
+    },
+    {
+      "type": "item",
+      "title": "cart_items",
+      "uri": "docs/resources/cart_items.md"
+    },
+    {
+      "type": "item",
+      "title": "carts",
+      "uri": "docs/resources/carts.md"
+    },
+    {
+      "type": "item",
+      "title": "categories",
+      "uri": "docs/resources/categories.md"
+    },
+    {
+      "type": "item",
+      "title": "coupon_codes",
+      "uri": "docs/resources/coupon_codes.md"
+    },
+    {
+      "type": "item",
+      "title": "credit_cards",
+      "uri": "docs/resources/credit_cards.md"
+    },
+    {
+      "type": "item",
+      "title": "custom_field_values",
+      "uri": "docs/resources/custom_field_values.md"
+    },
+    {
+      "type": "item",
+      "title": "custom_fields",
+      "uri": "docs/resources/custom_fields.md"
+    },
+    {
+      "type": "item",
+      "title": "custom_shipping_methods",
+      "uri": "docs/resources/custom_shipping_methods.md"
+    },
+    {
+      "type": "item",
+      "title": "customer_payment_methods",
+      "uri": "docs/resources/customer_payment_methods.md"
+    },
+    {
+      "type": "item",
+      "title": "customer_types",
+      "uri": "docs/resources/customer_types.md"
+    },
+    {
+      "type": "item",
+      "title": "customers",
+      "uri": "docs/resources/customers.md"
+    },
+    {
+      "type": "item",
+      "title": "discount_methods",
+      "uri": "docs/resources/discount_methods.md"
+    },
+    {
+      "type": "item",
+      "title": "discount_rules",
+      "uri": "docs/resources/discount_rules.md"
+    },
+    {
+      "type": "item",
+      "title": "drips",
+      "uri": "docs/resources/drips.md"
+    },
+    {
+      "type": "item",
+      "title": "email_templates",
+      "uri": "docs/resources/email_templates.md"
+    },
+    {
+      "type": "item",
+      "title": "gift_certificate_transactions",
+      "uri": "docs/resources/gift_certificate_transactions.md"
+    },
+    {
+      "type": "item",
+      "title": "gift_certificates",
+      "uri": "docs/resources/gift_certificates.md"
+    },
+    {
+      "type": "item",
+      "title": "inventory",
+      "uri": "docs/resources/inventory.md"
+    },
+    {
+      "type": "item",
+      "title": "links",
+      "uri": "docs/resources/links.md"
+    },
+    {
+      "type": "item",
+      "title": "mailing_lists",
+      "uri": "docs/resources/mailing_lists.md"
+    },
+    {
+      "type": "item",
+      "title": "manufacturers",
+      "uri": "docs/resources/manufacturers.md"
+    },
+    {
+      "type": "item",
+      "title": "microstores",
+      "uri": "docs/resources/microstores.md"
+    },
+    {
+      "type": "item",
+      "title": "notifications",
+      "uri": "docs/resources/notifications.md"
+    },
+    {
+      "type": "item",
+      "title": "order_addresses",
+      "uri": "docs/resources/order_addresses.md"
+    },
+    {
+      "type": "item",
+      "title": "order_items",
+      "uri": "docs/resources/order_items.md"
+    },
+    {
+      "type": "item",
+      "title": "order_payments",
+      "uri": "docs/resources/order_payments.md"
+    },
+    {
+      "type": "item",
+      "title": "order_shipments",
+      "uri": "docs/resources/order_shipments.md"
+    },
+    {
+      "type": "item",
+      "title": "order_statuses",
+      "uri": "docs/resources/order_statuses.md"
+    },
+    {
+      "type": "item",
+      "title": "orders",
+      "uri": "docs/resources/orders.md"
+    },
+    {
+      "type": "item",
+      "title": "pages",
+      "uri": "docs/resources/pages.md"
+    },
+    {
+      "type": "item",
+      "title": "payment_methods",
+      "uri": "docs/resources/payment_methods.md"
+    },
+    {
+      "type": "item",
+      "title": "price_calculator_rule_modifiers",
+      "uri": "docs/resources/price_calculator_rule_modifiers.md"
+    },
+    {
+      "type": "item",
+      "title": "price_calculator_rules",
+      "uri": "docs/resources/price_calculator_rules.md"
+    },
+    {
+      "type": "item",
+      "title": "price_calculators",
+      "uri": "docs/resources/price_calculators.md"
+    },
+    {
+      "type": "item",
+      "title": "product_lists",
+      "uri": "docs/resources/product_lists.md"
+    },
+    {
+      "type": "item",
+      "title": "product_pictures",
+      "uri": "docs/resources/product_pictures.md"
+    },
+    {
+      "type": "item",
+      "title": "product_pricing",
+      "uri": "docs/resources/product_pricing.md"
+    },
+    {
+      "type": "item",
+      "title": "product_reviews",
+      "uri": "docs/resources/product_reviews.md"
+    },
+    {
+      "type": "item",
+      "title": "product_statuses",
+      "uri": "docs/resources/product_statuses.md"
+    },
+    {
+      "type": "item",
+      "title": "product_variants",
+      "uri": "docs/resources/product_variants.md"
+    },
+    {
+      "type": "item",
+      "title": "products",
+      "uri": "docs/resources/products.md"
+    },
+    {
+      "type": "item",
+      "title": "profiles",
+      "uri": "docs/resources/profiles.md"
+    },
+    {
+      "type": "item",
+      "title": "quotes",
+      "uri": "docs/resources/quotes.md"
+    },
+    {
+      "type": "item",
+      "title": "regions",
+      "uri": "docs/resources/regions.md"
+    },
+    {
+      "type": "item",
+      "title": "sessions",
+      "uri": "docs/resources/sessions.md"
+    },
+    {
+      "type": "item",
+      "title": "shipping_providers",
+      "uri": "docs/resources/shipping_providers.md"
+    },
+    {
+      "type": "item",
+      "title": "shipping_rate_adjustments",
+      "uri": "docs/resources/shipping_rate_adjustments.md"
+    },
+    {
+      "type": "item",
+      "title": "Integration Routes",
+      "uri": "docs/resources/special_integration_routes.md"
+    },
+    {
+      "type": "item",
+      "title": "stores",
+      "uri": "docs/resources/stores.md"
+    },
+    {
+      "type": "item",
+      "title": "subscriptions",
+      "uri": "docs/resources/subscriptions.md"
+    },
+    {
+      "type": "item",
+      "title": "tax_rates",
+      "uri": "docs/resources/tax_rates.md"
+    },
+    {
+      "type": "item",
+      "title": "themes",
+      "uri": "docs/resources/themes.md"
+    },
+    {
+      "type": "item",
+      "title": "url_redirects",
+      "uri": "docs/resources/url_redirects.md"
+    },
+    {
+      "type": "item",
+      "title": "users",
+      "uri": "docs/resources/users.md"
+    },
+    {
+      "type": "item",
+      "title": "variant_groups",
+      "uri": "docs/resources/variant_groups.md"
+    },
+    {
+      "type": "item",
+      "title": "variant_inventory",
+      "uri": "docs/resources/variant_inventory.md"
+    },
+    {
+      "type": "item",
+      "title": "warehouses",
+      "uri": "docs/resources/warehouses.md"
+    },
+    {
+      "type": "item",
+      "title": "carts",
+      "uri": "docs/resources/wishlists.md"
+    },
+    {
+      "type": "divider",
+      "title": "APIS"
+    },
+    {
+      "type": "item",
+      "title": "AC API",
+      "uri": "common.oas2.yml"
+    },
+    {
+      "type": "item",
+      "title": "AmeriCommerce REST API",
+      "uri": "restapi.yml"
     }
   ]
 }
